@@ -3,7 +3,7 @@ import java.lang.Math;
 
 
 public class sinusiFaktorijel {
-    public static double sinus(int n ) {
+    public static double sinus(double n ) {
         return Math.sin(n);
     }
     public static int faktorijel(int n) {
